@@ -1,0 +1,24 @@
+This is a simple example of a plain \TeX{} file.
+
+\TeX{} is all about formatting.
+{\it Here are a few words in an italic font}, {\bf a
+few words in a boldface font}, {\it and a\/ {\bf mixture}
+of the two, with two\/ {\rm roman words} inserted}.
+
+\parindent = 7pt
+
+\beginsection Demonstration \par
+
+Here is some math: ${6 \over 2} = 3$.
+
+And more:
+% define a macro
+\def\arc#1{\cos #1 + i \sin #1}
+
+$$e^{i\cdot2t} = {\arc{2t}}$$
+
+$$\int_0^\pi \arc{\theta}\,{\rm d}\theta = 2i$$
+
+That's all.
+
+\bye
