@@ -11,7 +11,7 @@
   For decades, and still today, LaTeX is the standard format/program for technical writing (in lots of fields, including linguistics).
 
 
-## Basic resources
+## Get LaTeX
 
 Use locally or on the cloud (or both).
 
