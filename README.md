@@ -32,7 +32,7 @@ Use locally or on the cloud (or both).
 
 ### Resources
 
-- My method for keeping all my references synched: see this [README file](https://github.com/postylem/allbib).
+- A method I use for keeping all my references synched in one common `.bib` file: see the readme [here](https://github.com/postylem/allbib).
 
 ## Other resources
 
