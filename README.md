@@ -4,7 +4,7 @@
 
 - The origins: __TeX__. Dates back to the late 70s/early 80s (Don Knuth). For *formatting* text for technical documents.
 
-  See [`texdoc gentle`](https://www.ctan.org/pkg/gentle).
+  Type [`texdoc gentle`](https://www.ctan.org/pkg/gentle) at the command line for an intro, if you're interested in the original TeX.
 
 - __LaTeX__: easy(!)-to-use version for authors (Leslie Lamport). The point: describe *content*, formatting separate.
 
