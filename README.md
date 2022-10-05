@@ -2,7 +2,7 @@
 
 ## What is it?
 
-- The origins: __TeX__. From the early 80s. A format/program for *formatting* text.
+- The origins: __TeX__. Dates back to the late 70s/early 80s. For *formatting* text.
 
   See [`texdoc gentle`](https://www.ctan.org/pkg/gentle).
 
