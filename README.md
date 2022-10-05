@@ -2,11 +2,11 @@
 
 ## What is it?
 
-- The origins: __TeX__. Dates back to the late 70s/early 80s. For *formatting* text.
+- The origins: __TeX__. Dates back to the late 70s/early 80s (Don Knuth). For *formatting* text for technical documents.
 
   See [`texdoc gentle`](https://www.ctan.org/pkg/gentle).
 
-- __LaTeX__: easy(!)-to-use version for authors. The point: describe *content*, formatting separate.
+- __LaTeX__: easy(!)-to-use version for authors (Leslie Lamport). The point: describe *content*, formatting separate.
 
   For decades, and still today, LaTeX is the standard format/program for technical writing (in lots of fields, including linguistics).
 
