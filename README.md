@@ -29,6 +29,8 @@ Use locally or on the cloud (or both).
 
 ## Other resources
 
+- your suggestions?
+
 - even if you don't use LaTeX locally, some useful tools to install are:
   - [LaTeXiT](https://www.chachatelier.fr/latexit/) (LaTeX stnippet -> image)
   - [deTeXify](https://detexify.kirelabs.org/classify.html) (handwriting -> LaTeX symbol)
